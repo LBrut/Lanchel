@@ -1,4 +1,4 @@
-<h1>Hello, my name is Lanchel, an <a href="https://www.linkedin.com/in/lanchelbrutus/">IT Professional
+<h1>Hello my name is Lanchel,  an <a href="https://www.linkedin.com/in/lanchelbrutus/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
